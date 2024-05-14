@@ -51,7 +51,9 @@
     <img src="https://img.shields.io/static/v1?message=Codewars&logo=codewars&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" 
     height="35" alt="codewars logo"  />
   </a>
+  <a href="https://stackoverflow.com/?newreg=1726e1f4f6a04f4b8b17cdf8d4457ff4">
   <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  </a>
   <a href="https://medium.com/@moatazsalah3062005">
   <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
   </a>
