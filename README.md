@@ -42,13 +42,13 @@
 
 <div align="left">
   <a href="https://codeforces.com/profile/moataz__salah">
-  <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codeforces logo"  />
+  <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=F9CE57&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codeforces logo"  />
   </a>
   <a href="https://www.linkedin.com/in/moataz-salah-454865293">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="https://www.codewars.com/dashboard">
-    <img src="https://img.shields.io/static/v1?message=Codewars&logo=codewars&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" 
+    <img src="https://img.shields.io/static/v1?message=Codewars&logo=codewars&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" 
     height="35" alt="codewars logo"  />
   </a>
   <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
