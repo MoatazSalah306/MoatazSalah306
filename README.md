@@ -42,7 +42,7 @@
 ###
 
 <div align="left">
-  <a href="https://codeforces.com/profile/moataz__salah">
+  <a href="https://codeforces.com/profile/moataz_salah_ezzat">
   <img src="https://img.shields.io/static/v1?message=Codeforces&logo=codeforces&label=&color=B51F25&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codeforces logo"  />
   </a>
   <a href="https://www.linkedin.com/in/moataz-salah-454865293">
